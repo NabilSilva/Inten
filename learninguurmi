@@ -6,3 +6,12 @@
 2.Beacon Frame Format
   (URL:https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/)
 
+25/5/2016
+1.Installation and etc.
+  https://pypi.python.org/pypi/pypcapfile
+2.Beacon Packet basics 
+ https://www.youtube.com/watch?v=KKNf9SKrKLQ
+3.https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/
+  http://www.algissalys.com/network-security/pcap-capture-view-ssid-ap-names-in-wireshark
+  http://standards.ieee.org/about/get/802/802.11.html
+  https://wiki.wireshark.org/Wi-Fi

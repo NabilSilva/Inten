@@ -1,1 +1,14 @@
 1.https://www.quora.com/I-captured-a-pcap-file-using-wireshark-Now-I-want-to-read-header-information-from-captured-file-using-C-program-How-can-I-do-that-Tell-me-the-best-source-to-learn-that
+
+23/5/2016
+1.Pcap capture files : Viewing BSSID/SSID names
+ (URL:http://www.algissalys.com/network-security/passive-packet-sniffing-on-wifi-connections)
+2.Beacon Frame Format
+  (URL:https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/)
+
+25/5/2016
+1.Installation and etc.
+  https://pypi.python.org/pypi/pypcapfile
+2.Beacon Packet basics 
+ https://www.youtube.com/watch?v=KKNf9SKrKLQ
+
